@@ -72,5 +72,6 @@ The Business Intelligence solution developed for the "Global Inflation 1970-2022
     Management. 15. p. 175-181.
     
 ## Authors
-[Natalia Magalhaes]([https](https://github.com/natmag93)
+[Natalia Magalhaes](https://github.com/natmag93)
+
 [Zita Martins](https://github.com/zitasamartins)

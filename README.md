@@ -75,3 +75,4 @@ The Business Intelligence solution developed for the "Global Inflation 1970-2022
 [Natalia Magalhaes](https://github.com/natmag93)
 
 [Zita Martins](https://github.com/zitasamartins)
+Feel free to contact us!

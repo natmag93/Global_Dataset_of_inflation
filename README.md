@@ -70,3 +70,7 @@ The Business Intelligence solution developed for the "Global Inflation 1970-2022
  3. Zhao, Y. (2023) The Price of Risk: Exploring the Impact of the 2008
     Global Financial Crisis. Highlights in Business, Economics and
     Management. 15. p. 175-181.
+    
+## Authors
+[Natalia Magalhaes]([https](https://github.com/natmag93)
+[Zita Martins](https://github.com/zitasamartins)
